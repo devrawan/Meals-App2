@@ -1,0 +1,6 @@
+module Pods_AB_ABTests {
+  umbrella header "Pods-AB-ABTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
